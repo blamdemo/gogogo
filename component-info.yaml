@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: blambotestgo55
+  description: blambotestgo
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guest
